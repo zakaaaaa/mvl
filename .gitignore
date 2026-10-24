@@ -1,0 +1,9 @@
+# Kredensial admin (hash password + secret session) — hanya ada di server
+data/admin.json
+data/.lock
+data/*.on
+__pycache__/
+*.pyc
+venv/
+models/
+tmp/
